@@ -188,7 +188,7 @@ local Library = {
 	};
 	Connections = {};
 	Font = getgenv().custom_font;
-	FontSize = 12;
+	FontSize = 11;
 	Notifs = {};
 	KeyList = nil;
 	UIKey = Enum.KeyCode.Insert;
